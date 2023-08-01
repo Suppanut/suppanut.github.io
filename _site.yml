@@ -5,3 +5,6 @@ navbar:
   left:
     - text: "Home"
       href: index.html
+    - text: "RES MTHD/STAT PSY Lab"
+      menu:
+        - text: "manu1"
