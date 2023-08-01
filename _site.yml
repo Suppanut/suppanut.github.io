@@ -1,10 +1,14 @@
 name: "test"
 output_dir: "docs"
 navbar:
-  title: "test"
+  title: "testtest"
   left:
     - text: "Home"
       href: index.html
-    - text: "RES MTHD/STAT PSY Lab"
+    - text: "test"
       menu:
-        - text: "manu1"
+        - text: "menu1"
+output:
+  html_document:
+    include:
+      after_body: footer.html
